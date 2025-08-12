@@ -1,0 +1,413 @@
+Invoice ID,Date,Customer Name,Country to Ship To,Category,Rate,Quantity,Amount
+26597,Apr 10 2012,Sung Shariari,Indonesia,"Storage, Office Supplies",$492.12,12,"$5,905.48"
+13561,Sep 07 2012,Elpida Rittenbach,Spain,"Storage, Office Supplies, OFF-ST-4296",$457.33,9,"$4,115.93"
+35579,Dec 19 2012,Adrian Barton,United States,Office Supplies,$3.69,1,$3.69
+35500,Oct 30 2012,Anne McFarland,United States,"Art, Office Supplies",$49.25,5,$246.25
+36600,Nov 15 2012,Alan Barnes,United States,"Chairs, Furniture",$37.30,2,$74.59
+41218,Nov 23 2012,Alyssa Tate,United States,"Binders, Office Supplies",$5.74,3,$17.23
+36194,Oct 14 2012,Anna Chung,United States,"Chairs, Furniture, FUR-CH-4413",$183.37,2,$366.74
+9383,Dec 02 2012,Gene McClure,Nicaragua,"Copiers, Technology, TEC-CO-3708",$755.09,3,"$2,265.26"
+6094,Nov 02 2012,Erica Hernandez,Cuba,"Phones, Technology",$292.80,6,"$1,756.80"
+36195,Oct 14 2012,Anna Chung,United States,"Paper, Office Supplies, OFF-PA-6447",$7.97,2,$15.94
+9907,Apr 03 2012,Barry Weirich,Brazil,"Copiers, Technology","$1,063.97",5,"$5,319.84"
+36493,May 09 2012,Arianne Irving,United States,Office Supplies,$158.13,3,$474.39
+3719,Feb 24 2012,Carlos Soltero,Brazil,"Copiers, Technology, TEC-CO-3709",$501.48,2,"$1,002.95"
+14228,Sep 14 2012,Doug Jacobs,Spain,"Furnishings, Furniture",$749.07,7,"$5,243.49"
+48319,Oct 31 2012,Hallie Redmond,Saudi Arabia,"Accessories, Technology","$1,549.98",6,"$9,299.88"
+13511,Feb 02 2012,Ellis Ballard,Germany,"Copiers, Technology",$378.81,1,$378.81
+16384,Dec 08 2012,Adam Hart,United Kingdom,"Bookcases, Furniture",$874.02,7,"$6,118.14"
+5436,Oct 15 2012,Ellis Ballard,Nicaragua,"Copiers, Technology",$601.55,3,"$1,804.66"
+767,Dec 28 2012,Annie Zypern,Nicaragua,"Chairs, Furniture","$2,429.44",8,"$19,435.52"
+39387,Dec 06 2012,Ann Steele,United States,"Storage, Office Supplies",$269.36,7,"$1,885.52"
+35876,Jul 26 2012,Aaron Smayling,United States,"Paper, Office Supplies",$65.78,11,$723.58
+38318,Aug 22 2012,Arthur Prichep,United States,"Furnishings, Furniture",$4.22,3,$12.67
+18991,Aug 16 2012,Delfina Latchford,Netherlands,"Bookcases, Furniture","$1,648.44",8,"$13,187.52"
+35503,Oct 30 2012,Anne McFarland,United States,"Binders, Office Supplies",$34.08,2,$68.16
+15521,Mar 29 2012,Chris Selesnick,Germany,"Chairs, Furniture, FUR-CH-5412",$729.14,5,"$3,645.68"
+47905,Sep 13 2012,Aaron Hawkins,Democratic Republic of the Congo,"Phones, Technology","$3,817.26",6,"$22,903.56"
+16997,Nov 29 2012,Anthony Witt,Netherlands,"Copiers, Technology","$1,440.84",8,"$11,526.72"
+23581,Oct 02 2012,Jamie Kunitz,Australia,"Phones, Technology, TEC-PH-5249",$780.17,5,"$3,900.83"
+11631,May 01 2012,Bill Donatelli,France,"Appliances, Office Supplies","$1,388.88",5,"$6,944.40"
+21664,Feb 02 2012,Erin Smith,"Yunyang, Henan, China","Bookcases, Furniture","$1,052.31",7,"$7,366.17"
+50000,Apr 26 2012,Cynthia Volt,Lesotho,"Phones, Technology, TEC-PH-5354","$2,544.60",4,"$10,178.40"
+33729,Mar 24 2012,Annie Zypern,United States,"Chairs, Furniture",$366.79,7,"$2,567.50"
+21858,Mar 03 2012,Brad Eason,China,"Phones, Technology",$554.76,3,"$1,664.28"
+44270,Aug 08 2012,Carl Weiss,Lebanon,Furniture,$457.14,1,$457.14
+37563,Nov 02 2012,Annie Thurman,United States,"Paper, Office Supplies",$143.86,9,"$1,294.70"
+21665,Feb 02 2012,Erin Smith,China,"Tables, Furniture",$692.33,2,"$1,384.66"
+39748,Apr 27 2012,Arianne Irving,United States,"Phones, Technology, TEC-PH-5817","$1,679.96",5,"$8,399.80"
+27932,Oct 14 2012,Fred Wasserman,Bangladesh,"Copiers, Technology, TEC-CO-4576",$958.68,3,"$2,876.04"
+23213,Jul 29 2012,Corey Roper,South Korea,"Storage, Office Supplies",$619.20,6,"$3,715.20"
+5917,Nov 27 2012,Sung Chung,Mexico,"Machines, Technology, TEC-MA-5571",$533.22,3,"$1,599.66"
+35502,Oct 30 2012,Anne McFarland,United States,"Furnishings, Furniture",14.76,2,29.52
+25045,Jul 19 2012,Bruce Stewart,Australia,"Bookcases, Furniture","$1,535.81",7,"$10,750.70"
+16144,Apr 17 2012,Candace McMahon,France,"Machines, Technology","$2,016.85",9,"$18,151.61"
+12204,Apr 10 2012,Berenike Kampe,Germany,"Copiers, Technology",$785.34,3,"$2,356.02"
+46335,Dec 19 2012,Emily Grady,Algeria,"Appliances, Office Supplies","$1,111.56",4,"$4,446.24"
+38319,Aug 22 2012,Arthur Prichep,United States,"Phones, Technology",$143.64,9,"$1,292.76"
+27259,Jun 21 2012,Allen Rosenblatt,China,"Bookcases, Furniture",$619.02,3,"$1,857.06"
+38346,Sep 24 2012,Barry Franz,United States,"Art, Office Supplies",$14.58,2,$29.15
+36282,Sep 02 2012,Allen Goldenen,United States,"Labels, Office Supplies",$14.40,5,$72.00
+33572,Oct 02 2012,Allen Rosenblatt,United States,"Chairs, Furniture",$122.35,3,$367.06
+36279,Nov 15 2012,Adam Hart,United States,"Labels, Office Supplies",$5.22,2,$10.44
+35580,Dec 19 2012,Adrian Barton,United States,"Binders, Office Supplies","$1,103.97",3,"$3,311.91"
+11954,Mar 31 2012,Benjamin Patterson,Italy,"Binders, Office Supplies",$295.92,6,"$1,775.52"
+30303,May 13 2012,Jill Matthias,New Zealand,"Chairs, Furniture","$1,836.00",4,"$7,344.00"
+38656,Dec 29 2012,Alex Russell,United States,"Tables, Furniture, FUR-TA-4622",$523.76,3,"$1,571.29"
+22091,Mar 05 2013,George Bell,"Sydney, New South Wales, Australia","Bookshelves, Furniture, FUR-BO-5760","$2,756.94",7,"$19,298.60"
+18994,Jan 09 2013,Carlos Soltero,Sweden,"Appliances, Office Supplies","$1,293.68",5,"$6,468.38"
+18517,Feb 17 2013,Frank Olsen,France,"Accessories, Technology",$579.60,10,"$5,796.00"
+36494,May 09 2012,Arianne Irving,United States,"Phones, Technology",43.60,5,218.00
+40100,Dec 30 2012,Aaron Hawkins,United States,"Accessories, Technology",$34.77,3,$104.31
+44795,Jul 31 2012,Jamie Frazer,Turkey,"Chairs, Furniture","$1,503.74",8,"$12,029.95"
+35317,Jun 21 2012,Anna Andreadi,United States,"Chairs, Furniture",$170.06,3,$510.17
+31421,Dec 25 2012,Alan Dominguez,United States,"Chairs, Furniture",$600.56,3,"$1,801.67"
+36352,Jan 02 2013,Amy Hunt,United States,"Bookcases, Furniture, FUR-BO-5529","$1,352.40",9,"$12,171.58"
+20145,Feb 22 2013,Brendan Dodson,United Kingdom,"Chairs, Furniture","$2,285.70",5,"$11,428.50"
+23609,May 08 2012,James Lanier,Thailand,"Chairs, Furniture","$1,015.98",3,"$3,047.95"
+18794,Jul 19 2012,Alex Grayson,United Kingdom,"Storage, Office Supplies, OFF-ST-4260",$272.76,2,$545.52
+11508,Aug 14 2012,Evan Henry,Germany,"Chairs, Furniture","$1,305.88",9,"$11,752.94"
+35286,Nov 24 2012,Andy Reiter,United States,"Furnishings, Furniture",$52.96,2,$105.92
+13360,Dec 22 2012,Eric Murdock,Ireland,"Accessories, Technology, TEC-AC-5894",$897.23,7,"$6,280.58"
+42921,Aug 01 2012,Benjamin Patterson,Nigeria,"Chairs, Furniture",$275.40,2,$550.80
+15376,Nov 02 2012,Greg Matthias,Netherlands,"Appliances, Office Supplies, OFF-AP-4745","$1,983.14",7,"$13,881.95"
+17220,Dec 09 2012,Ben Peterman,United Kingdom,"Bookcases, Furniture, FUR-BO-5941",$304.56,2,$609.12
+16013,Dec 25 2012,Anthony O'Donnell,United Kingdom,"Bookcases, Furniture","$1,451.40",4,"$5,805.60"
+25097,Dec 21 2012,Dianna Arnett,India,"Accessories, Technology, TEC-AC-4166","$1,031.40",9,"$9,282.60"
+36652,May 12 2012,Aaron Hawkins,United States,"Paper, Office Supplies",$8.00,2,$16.00
+31314,May 12 2012,Alejandro Grove,United States,"Storage, Office Supplies",$55.50,2,$111.00
+42416,Apr 13 2012,Hunter Glantz,Egypt,"Appliances, Office Supplies",$541.44,6,"$3,248.64"
+50251,Jul 19 2012,Ivan Gibson,Egypt,"Chairs, Furniture",$297.96,4,"$1,191.84"
+38320,Aug 22 2012,Arthur Prichep,United States,"Paper, Office Supplies",$31.10,6,$186.62
+33571,Oct 02 2012,Allen Rosenblatt,United States,"Tables, Furniture, FUR-TA-3426",$143.43,1,$143.43
+46338,Oct 09 2012,Bryan Spruell,Angola,"Accessories, Technology, TEC-AC-5226",$985.68,4,"$3,942.72"
+39300,Nov 30 2012,Anna Andreadi,United States,"Phones, Technology",$271.90,2,$543.80
+35339,Dec 28 2012,Anthony Johnson,United States,"Labels, Office Supplies",$274.77,9,"$2,472.93"
+50253,Jul 19 2012,Ivan Gibson,Egypt,"Phones, Technology",$530.52,4,"$2,122.08"
+20666,Sep 22 2012,Frank Merwin,Australia,"Machines, Technology, TEC-MA-6142",$543.19,2,"$1,086.37"
+6183,Sep 12 2012,Bruce Stewart,Ecuador,"Phones, Technology, TEC-PH-5359",$410.80,5,"$2,054.00"
+27070,Oct 05 2012,Erica Hackney,India,"Phones, Technology",$415.44,3,"$1,246.32"
+35505,Oct 30 2012,Anne McFarland,United States,"Chairs, Furniture, FUR-CH-4674","$1,604.90",5,"$8,024.50"
+48321,Oct 31 2012,Hallie Redmond,Saudi Arabia,Office Supplies,$593.64,12,"$7,123.68"
+17222,Dec 09 2012,Ben Peterman,United Kingdom,"Appliances, Office Supplies, OFF-AP-4730",$554.53,2,"$1,109.05"
+15824,Apr 19 2012,Denise Leinenbach,"Lowestoft, England, United Kingdom","Phones, Technology",$692.85,5,"$3,464.25"
+22999,Feb 24 2013,Benjamin Patterson,India,"Chairs, Furniture","$1,878.72",4,"$7,514.88"
+42321,May 13 2012,Brian Stugart,Romania,"Bookcases, Furniture",$724.80,2,"$1,449.60"
+18233,Aug 26 2012,Doug O'Connell,Italy,"Accessories, Technology",$741.96,3,"$2,225.88"
+36351,Jan 02 2013,Amy Hunt,United States,"Art, Office Supplies",$7.06,3,$21.17
+21617,May 31 2012,Adam Bellavance,Indonesia,"Chairs, Furniture","$1,037.71",8,"$8,301.68"
+36350,Jan 02 2013,Amy Hunt,United States,"Accessories, Technology",$398.40,5,"$1,992.00"
+749,Aug 21 2012,Darrin Van Huff,Mexico,"Copiers, Technology, TEC-CO-4774","$1,395.24",7,"$9,766.71"
+27755,Apr 21 2012,Grant Thornton,Indonesia,"Appliances, Office Supplies","$1,243.90",3,"$3,731.71"
+32104,Feb 02 2013,Allen Arnold,United States,"Furnishings, Furniture",$28.40,2,$56.80
+21663,Feb 02 2012,Erin Smith,China,"Storage, Office Supplies, OFF-ST-4055",$380.88,3,"$1,142.64"
+18660,Nov 17 2012,Debra Catini,France,"Bookcases, Furniture, FUR-BO-5786","$3,177.71",9,"$28,599.40"
+24518,Jan 11 2013,Alejandro Grove,"Guangdong, China","Bookcases, Furniture","$1,962.00",10,"$19,620.00"
+41083,Nov 04 2012,Barry Gonzalez,United States,"Chairs, Furniture",$149.90,5,$749.50
+36651,May 12 2012,Aaron Hawkins,United States,"Chairs, Furniture",$279.46,6,"$1,676.74"
+4062,Nov 23 2012,Dave Poirier,Mexico,"Tables, Furniture","$1,707.26",6,"$10,243.58"
+15501,Sep 11 2012,Dianna Wilson,France,Office Supplies,$666.96,14,"$9,337.44"
+49367,Jan 24 2012,Ann Blume,Estonia,"Phones, Technology, TEC-PH-3806","$1,302.78",2,"$2,605.56"
+27071,Oct 05 2012,Erica Hackney,India,"Phones, Technology",$965.58,7,"$6,759.06"
+15103,Nov 14 2012,Susan Vittorini,Finland,Furniture,$727.50,2,"$1,455.00"
+35338,Dec 28 2012,Anthony Johnson,United States,"Phones, Technology",$191.98,3,$575.93
+16603,Jul 26 2012,Bryan Davis,France,"Phones, Technology","$1,621.95",3,"$4,865.86"
+8561,Dec 27 2012,Denny Blanton,Mexico,"Copiers, Technology, TEC-CO-4593","$1,770.67",7,"$12,394.70"
+42205,Jan 22 2013,Jesus Ocampo,Iraq,"Copiers, Technology, TEC-CO-4591","$1,519.32",4,"$6,077.28"
+31669,Jul 22 2012,Arthur Gainer,United States,"Binders, Office Supplies",$8.16,5,$40.80
+41353,Jan 20 2013,Greg Matthias,Tunisia,"Copiers, Technology",$357.36,1,$357.36
+911,Oct 26 2012,Art Ferguson,Cuba,"Bookcases, Furniture","$2,190.72",8,"$17,525.76"
+36551,Mar 05 2013,Alan Haines,United States,"Chairs, Furniture",$99.37,2,$198.74
+28645,Aug 03 2012,Bryan Mills,"Tamil Nadu, India","Bookcases, Furniture, FUR-BO-3639","$1,455.12",4,"$5,820.48"
+21464,Dec 23 2012,Andrew Roberts,"Inner Mongolia, China","Phones, Technology, TEC-PH-3807","$3,271.20",5,"$16,356.00"
+36943,Jan 03 2013,Andrew Gjertsen,United States,"Furnishings, Furniture, FUR-FU-3924",$192.22,14,"$2,691.08"
+36397,Mar 16 2012,Annie Zy Pern,United States,"Art, Office Supplies",$4.45,2,$8.90
+11633,Nov 03 2012,Heather Kirkland,France,"Machines, Technology, TEC-MA-5020",$820.49,8,"$6,563.90"
+35427,Nov 17 2012,Ann Blume,United States,"Binders, Office Supplies",$14.48,5,$72.40
+32442,Sep 28 2012,Arthur Prichep,United States,"Storage, Office Supplies",$62.18,1,$62.18
+11877,Sep 13 2012,Corey-Lock,"Worcester, England, United Kingdom","Art, Office Supplies, OFF-AR-5920",$317.16,12,"$3,805.92"
+13985,Nov 28 2012,Cynthia Delaney,France,"Copiers, Technology","$1,629.76",6,$9.54
+26456,Mar 24 2012,Greg Guthrie,China,"Chairs, Furniture",$190.92,2,$381.84
+22218,Jul 29 2012,Heather Jas,Indonesia,"Appliances, Office Supplies","$1,340.34",3,"$4,021.03"
+37076,Nov 10 2012,Arthur Prichep,United States,"Chairs, Furniture",$112.65,1,$112.65
+18210,Nov 18 2012,Denny Joy,Greece,"Phones, Technology, TEC-PH-5248",$728.53,7,"$5,099.72"
+34581,Sep 11 2012,Art Foster,United States,Binders,$63.92,7,$447.47
+28046,Jan 10 2012,Dan Lawera,Australia,"Phones, Technology, TEC-PH-5356","$2,875.10",5,"$14,375.48"
+2910,Sep 22 2012,Jeremy Pistek,Brazil,Furniture,"$1,107.20",4,"$4,428.80"
+32440,Sep 28 2012,Arthur Prichep,United States,Office Supplies,$6.48,1,$6.48
+43619,Sep 07 2012,Cynthia Voltz,Turkey,"Chairs, Furniture","$1,142.64",6,"$6,855.84"
+23088,Feb 01 2013,Deanra Eno,Australia,"Tables, Furniture",$985.11,5,"$4,925.55"
+23397,Nov 02 2012,Dionis Lloyd,India,"Copiers, Technology, TEC-CO-4776","$1,199.76",4,"$4,799.04"
+36552,Mar 05 2013,Alan Haines,United States,"Furnishings, Furniture, FUR-FU-2864",$33.57,2,$67.14
+6149,May 08 2012,Don Weiss,El Salvador,"Accessories, Technology, TEC-AC-4166",$534.80,7,"$3,743.60"
+27231,Jul 18 2012,Bruce Geld,Malaysia,"Machines, Technology, TEC-MA-6153",$980.91,9,"$8,828.19"
+28646,Aug 03 2012,Bryan Mills,India,"Copiers, Technology",$963.36,4,"$3,853.44"
+27230,Jul 18 2012,Bruce Geld,Malaysia,"Phones, Technology, TEC-PH-5356","$2,555.64",4,"$10,222.56"
+49797,May 30 2012,Craig Molinari,Romania,"Phones, Technology","$1,680.30",10,"$16,803.00"
+6148,May 08 2012,Don Weiss,El Salvador,"Accessories, Technology",$533.82,7,"$3,736.74"
+17848,Nov 05 2012,Corinna Mitchell,France,"Machines, Technology, TEC-MA-5007","$1,320.01",5,"$6,600.04"
+41697,Jun 08 2012,Jennifer Ferguson,South Africa,"Machines, Technology, TEC-MA-6140",$300.18,1,$300.18
+16316,Jan 15 2012,Don Jones,Germany,"Copiers, Technology",$526.62,2,"$1,053.24"
+24591,Aug 10 2012,David Smith,China,"Copiers, Technology",$756.78,2,"$1,513.56"
+32441,Sep 28 2012,Arthur Prichep,United States,"Machines, Technology",$686.32,2,"$1,372.64"
+4820,Dec 08 2012,Aaron Hawkins,Mexico,Furniture,$780.61,4,"$3,122.43"
+26455,Mar 24 2012,Greg Guthrie,China,"Phones, Technology",$413.37,3,"$1,240.11"
+9878,Nov 14 2012,Jeremy Pistek,Guatemala,"Chairs, Furniture",$618.24,2,"$1,236.48"
+23089,Feb 25 2012,Fred McMath,China,"Phones, Technology","$1,527.12",9,"$13,744.08"
+21287,Nov 02 2012,Dave Poirier,Australia,"Chairs, Furniture","$2,544.37",6,"$15,266.23"
+18306,Mar 20 2012,Darrin Martin,Italy,"Bookcases, Furniture",$287.94,2,$575.88
+46049,Feb 12 2012,Eric Murdock,Morocco,"Chairs, Furniture, FUR-CH-5805",$681.72,4,"$2,726.88"
+25068,Dec 08 2012,Anthony O'Donnell,Australia,"Phones, Technology, TEC-PH-5356","$1,725.06",3,"$5,175.17"
+39139,Apr 18 2012,Allen Goldenen,United States,"Binders, Office Supplies",$58.05,3,$174.15
+24911,Nov 10 2012,Darren Powers,Malaysia,"Copiers, Technology","$1,383.12",8,"$11,064.96"
+24071,Oct 02 2012,Frank Preis,Australia,"Bookcases, Furniture, FUR-BO-5948","$1,567.62",4,"$6,270.48"
+25445,Dec 27 2012,Adrian Barton,India,"Copiers, Technology, TEC-CO-6010","$1,066.68",3,"$3,200.04"
+8015,Dec 12 2012,Christopher Martinez,Mexico,"Phones, Technology, TEC-PH-5841","$2,120.80",5,"$10,604.00"
+41965,Nov 11 2012,Ionia McGrath,Republic of the Congo,"Bookcases, Furniture","$1,660.80",4,"$6,643.20"
+2765,Dec 20 2012,Barry Gonzalez,Brazil,Furniture,$629.58,7,"$4,407.06"
+12169,Aug 04 2012,Barry Weirich,Germany,"Phones, Technology",$586.08,8,"$4,688.64"
+14021,Mar 07 2013,Bill Eplett,United Kingdom,"Copiers, Technology","$1,893.30",5,"$9,466.50"
+50411,Nov 08 2012,Dianna Wilson,Ukraine,"Tables, Furniture","$1,858.68",4,"$7,434.72"
+12471,May 20 2012,Adam Shillingsburg,Netherlands,"Bookcases, Furniture, FUR-BO-5941",$507.60,6,"$3,045.60"
+21672,Jun 09 2012,Jessica Myrick,Japan,"Machines, Technology, TEC-MA-5507",$672.00,8,"$5,376.00"
+22023,Sep 06 2012,Greg Tran,India,"Phones, Technology",$524.28,4,"$2,097.12"
+20861,Jun 06 2012,Daniel Raglin,Australia,"Appliances, Office Supplies, OFF-AP-4966","$4,624.29",9,"$41,618.61"
+28157,Jun 09 2012,Alex Russell,Vietnam,"Bookcases, Furniture, FUR-BO-5940",$314.00,3,$942.01
+2535,Jul 19 2012,Bruce Degenhardt,Guatemala,"Accessories, Technology",$976.08,6,"$5,856.48"
+21286,Nov 02 2012,Dave Poirier,Australia,"Appliances, Office Supplies, OFF-AP-3579","$2,526.93",5,"$12,634.65"
+15115,Sep 07 2012,Andrew Roberts,France,"Chairs, Furniture","$1,121.69",9,"$10,095.19"
+2489,Sep 13 2012,Cyma Kinney,Mexico,"Copiers, Technology, TEC-CO-4775",$991.81,5,"$4,959.06"
+18899,Sep 19 2012,Dave Brooks,Germany,"Copiers, Technology","$3,616.50",10,"$36,165.00"
+24210,Dec 09 2012,Catherine Glotzbach,China,"Accessories, Technology, TEC-AC-3402",$776.25,3,"$2,328.75"
+3526,Feb 26 2012,Bill Stewart,Nicaragua,"Copiers, Technology, TEC-CO-5997",$988.32,5,"$4,941.60"
+27261,Sep 21 2012,David Philippe,India,"Phones, Technology","$1,917.00",3,"$5,751.00"
+5809,Dec 08 2012,Brooke Gillingham,Mexico,"Tables, Furniture","$1,280.08",5,"$6,400.40"
+37936,Oct 30 2012,Anthony Jacobs,United States,"Tables, Furniture","$1,421.66",8,"$11,373.31"
+28184,Dec 05 2012,Greg Hansen,"Singapore, Singapore, Singapore","Storage, Office Supplies",$639.45,5,"$3,197.25"
+27645,Nov 29 2012,Brad Norvell,Malaysia,Office Supplies,$634.80,5,"$3,174.00"
+25242,Mar 11 2012,Carlos Daly,China,"Chairs, Furniture","$3,272.01",7,"$22,904.07"
+28557,Feb 26 2013,Bradley Talbott,India,"Tables, Furniture","$5,451.30",6,"$32,707.80"
+14641,Feb 02 2012,Ed Braxton,Spain,"Phones, Technology",$587.41,1,$587.41
+19354,Feb 01 2013,Jill Fjeld,Germany,"Accessories, Technology, TEC-AC-5895","$1,779.12",7,"$12,453.84"
+24450,Mar 05 2013,Greg Matthias,Australia,"Chairs, Furniture",$409.24,1,$409.24
+28784,Feb 15 2012,Jeremy Ellison,Japan,"Bookcases, Furniture","$1,743.96",4,"$6,975.84"
+21707,Feb 06 2013,Christina DeMoss,India,"Copiers, Technology, TEC-CO-4575","$1,285.44",4,"$5,141.76"
+10340,Sep 26 2012,Christina Anderson,United Kingdom,"Copiers, Technology","$1,140.75",3,"$3,422.25"
+26986,Aug 28 2012,Brendan Murray,Australia,"Tables, Furniture","$2,301.14",7,"$16,107.97"
+17343,Jun 08 2012,Harold Dahlen,Germany,"Appliances, Office Supplies",$511.62,1,$511.62
+34304,Oct 23 2012,Allen Arnold,United States,"Binders, Office Supplies",$34.27,3,$102.82
+3527,Feb 26 2012,Bill Stewart,Nicaragua,"Bookcases, Furniture",685.44,6,4112.64
+8673,Sep 29 2012,Alice McCarthy,Honduras,"Chairs, Furniture",$939.84,5,"$4,699.20"
+15981,Jan 12 2013,Carol Triggs,"England, United Kingdom","Storage, Office Supplies",$612.45,3,"$1,837.35"
+38989,Dec 28 2012,Arianne Irving,United States,"Labels, Office Supplies",$88.80,6,$532.80
+31903,Mar 14 2012,Alan Shonely,"Florida, United States","Paper, Office Supplies",$131.90,3,$395.71
+31905,May 22 2012,Andrew Roberts,United States,"Art, Office Supplies",$21.17,9,$190.51
+38990,Dec 28 2012,Arianne Irving,United States,"Phones, Technology",$319.97,4,"$1,279.87"
+33272,Oct 17 2012,Alan Schoenberger,United States,"Storage, Office Supplies",$275.97,3,$827.91
+3187,Aug 24 2012,Brendan Sweet,El Salvador,"Bookcases, Furniture",$796.48,8,"$6,371.84"
+48022,Jun 02 2012,Clay Cheatham,Ukraine,Furniture,$855.15,1,$855.15
+33135,Jul 31 2012,Barbara Fisher,United States,"Furnishings, Furniture, FUR-FU-2877",$44.13,4,$176.51
+17534,Jan 15 2013,Corey Catlett,Germany,Office Supplies,"$2,283.71",9,"$20,553.43"
+27720,Feb 10 2012,Carol Adams,Japan,"Phones, Technology","$6,998.64",11,"$76,985.04"
+2536,May 27 2012,Harold Pawlan,Mexico,"Phones, Technology, TEC-PH-3805","$1,302.96",3,"$3,908.88"
+11911,Jul 03 2012,Christy Brittain,France,"Storage, Office Supplies",$799.85,7,"$5,598.94"
+20955,Feb 05 2013,Stuart Calhoun,India,"Bookcases, Furniture, FUR-BO-5787","$2,737.98",7,"$19,165.86"
+45592,Dec 27 2012,Jay Kimmel,Egypt,"Storage, Office Supplies",$513.72,4,"$2,054.88"
+13598,Jan 12 2013,James Lanier,United Kingdom,"Machines, Technology, TEC-MA-6142","$1,207.08",4,"$4,828.32"
+27583,Jun 05 2012,Charlotte Melton,"Gujranwala, Punjab, Pakistan","Copiers, Technology, TEC-CO-3604",$938.15,13,"$12,195.89"
+48563,Sep 07 2012,Dennis Bolton,Zambia,"Storage, Office Supplies",$424.20,2,$848.40
+39562,Dec 29 2012,Astrea Jones,United States,"Binders, Office Supplies",$35.45,7,$248.14
+50372,Jun 28 2012,George Zrebassa,Russia,"Bookcases, Furniture","$3,312.24",8,"$26,497.92"
+29681,Nov 24 2012,Craig Reiter,"Singapore, Singapore, Singapore","Copiers, Technology, TEC-CO-3599",$743.70,5,"$3,718.50"
+40780,Jul 21 2012,Alejandro Ballentine,United States,"Art, Office Supplies",$19.68,6,$118.08
+13186,Jun 21 2012,Cynthia Voltz,Germany,"Chairs, Furniture",$469.29,7,"$3,285.01"
+28750,Dec 05 2012,Andrew Gjertsen,China,Technology,"$2,518.95",7,"$17,632.65"
+20674,Jun 16 2012,Bart Watters,China,"Tables, Furniture","$3,238.31",5,"$16,191.53"
+45227,Apr 24 2012,Chuck Magee,Israel,"Furnishings, Furniture, FUR-FU-4066",$453.12,4,"$1,812.48"
+1601,Jun 06 2012,Dean Braden,"São Paulo, Brazil",Furniture,$381.76,4,"$1,527.04"
+39795,Mar 04 2012,Aimee Bixby,United States,Office Supplies,$18.62,2,$37.24
+50724,Jan 08 2012,Henia Zydlo,Angola,Furniture,"$2,478.60",6,"$14,871.60"
+33134,Jul 31 2012,Barbara Fisher,United States,"Labels, Office Supplies",$17.54,3,$52.63
+22699,Feb 15 2012,Christopher Martinez,Philippines,"Copiers, Technology","$1,235.29",6,"$7,411.72"
+33273,Oct 17 2012,Alan Schoenberger,United States,"Phones, Technology","$1,394.95",5,"$6,974.75"
+7804,Sep 11 2012,Ashley Jarboe,Mexico,"Accessories, Technology","$1,026.24",6,"$6,157.44"
+35601,Oct 25 2012,Angele Hood,United States,"Furnishings, Furniture",$63.92,4,$255.68
+33399,Jul 17 2012,Adrian Hane,United States,"Chairs, Furniture",$259.14,4,"$1,036.54"
+31904,May 22 2012,Andrew Roberts,United States,"Binders, Office Supplies",$3.28,2,$6.56
+31900,Mar 14 2012,Alan Shonely,United States,"Furnishings, Furniture, FUR-FU-4048",$45.70,3,$137.09
+31906,May 22 2012,Andrew Roberts,United States,"Phones, Technology",$55.19,2,$110.38
+13957,Jun 21 2012,Debra Catini,"Minden, North Rhine-Westphalia, Germany","Chairs, Furniture",$807.73,6,"$4,846.39"
+21585,May 01 2012,Jason Klamczynski,China,"Chairs, Furniture",$246.48,4,$985.92
+33136,Jul 31 2012,Barbara Fisher,United States,"Appliances, Office Supplies",$62.92,1,$62.92
+33504,Jul 13 2012,Arthur Wiediger,United States,"Phones, Technology",$38.27,4,$153.09
+40216,Apr 01 2012,Anna Häberlin,United States,"Furnishings, Furniture, FUR-FU-5158",$177.68,2,$355.36
+42837,Sep 01 2012,Anna Gayman,Austria,Furniture,$922.95,1,$922.95
+22290,Jun 06 2012,Eugene Hildebrand,India,"Copiers, Technology, TEC-CO-4780",$386.10,3,"$1,158.30"
+15648,Jun 05 2012,Erica Hernandez,United Kingdom,"Tables, Furniture","$1,266.03",3,"$3,798.09"
+50219,Aug 03 2012,Jennifer Patt,Iran,"Bookcases, Furniture",$728.64,2,"$1,457.28"
+19847,Sep 09 2012,Doug Bickford,Germany,"Art, Office Supplies, OFF-AR-3528",$284.10,5,"$1,420.50"
+4891,Dec 07 2012,Brooke Gillingham,Mexico,"Chairs, Furniture","$2,226.82",9,"$20,041.34"
+39561,Dec 29 2012,Astrea Jones,United States,"Appliances, Office Supplies",$122.94,3,$368.82
+4723,Jun 19 2012,Corey-Lock,Venezuela,"Phones, Technology",$764.93,3,"$2,294.78"
+50661,Sep 11 2012,Hallie Redmond,Democratic Republic of the Congo,"Machines, Technology, TEC-MA-5501","$1,250.04",4,"$5,000.16"
+18509,Mar 01 2013,Jasper Cacioppo,United Kingdom,"Phones, Technology, TEC-PH-3785",$733.44,4,"$2,933.76"
+29263,Sep 07 2012,Dorris liebe,Thailand,"Appliances, Office Supplies, OFF-AP-4964","$2,363.76",5,"$11,818.79"
+49650,Feb 26 2013,Erica Hernandez,Senegal,"Copiers, Technology, TEC-CO-3597",$633.48,2,"$1,266.96"
+42998,Aug 08 2012,Alan Haines,Canada,"Envelopes, Office Supplies, OFF-EN-3089",$87.84,6,$527.04
+37312,Apr 05 2012,Andy Yotov,United States,"Furnishings, Furniture",$91.96,2,$183.92
+23791,Jun 14 2012,Greg Hansen,China,"Chairs, Furniture","$1,296.24",8,"$10,369.92"
+33137,Jul 31 2012,Barbara Fisher,United States,"Paper, Office Supplies",$78.30,2,$156.61
+32473,Dec 26 2012,Alyssa Tate,United States,"Fasteners, Office Supplies",$11.56,4,$46.24
+28110,May 20 2012,Emily Phan,Indonesia,"Bookcases, Furniture","$2,539.88",7,"$17,779.14"
+35602,Oct 25 2012,Angele Hood,United States,"Phones, Technology, TEC-PH-6347",$383.96,5,"$1,919.80"
+20228,Sep 27 2012,Art Ferguson,Belgium,"Appliances, Office Supplies","$4,195.20",8,"$33,561.60"
+31901,Mar 14 2012,Alan Shonely,United States,"Binders, Office Supplies",$7.22,3,$21.65
+18208,Nov 18 2012,Denny Joy,Greece,"Tables, Furniture",$607.38,4,"$2,429.52"
+31672,Jul 22 2012,Arthur Gainer,United States,"Accessories, Technology",$479.04,10,"$4,790.40"
+22216,Jul 29 2012,Heather Jas,Indonesia,"Appliances, Office Supplies",$512.04,2,"$1,024.09"
+21580,May 01 2012,Jason Klamczynski,China,"Appliances, Office Supplies","$1,057.38",2,"$2,114.76"
+11116,May 12 2012,Anthony Rawles,Italy,"Accessories, Technology","$1,025.40",4,"$4,101.60"
+1804,Dec 13 2012,Darren Koutras,Mexico,"Bookcases, Furniture, FUR-BO-5966",$825.79,4,"$3,303.17"
+10052,May 16 2012,Jill Matthias,Brazil,"Phones, Technology, TEC-PH-5355",$849.80,5,"$4,249.00"
+19346,Jun 27 2012,Daniel Raglin,Germany,Furniture,$662.83,2,"$1,325.66"
+23720,Jul 15 2012,Corey Catlett,China,"Bookcases, Furniture, FUR-BO-3646","$1,729.14",14,"$24,207.96"
+14229,Dec 16 2012,Bradley Drucker,Portugal,"Chairs, Furniture, FUR-CH-5394",$468.72,7,"$3,281.04"
+22701,Feb 15 2012,Christopher Martinez,Philippines,"Phones, Technology",$921.38,9,"$8,292.38"
+48565,Sep 07 2012,Dennis Bolton,Zambia,"Tables, Furniture","$2,134.44",4,"$8,537.76"
+35041,Oct 23 2012,Arthur Prichep,United States,"Fasteners, Office Supplies",$11.85,3,$35.55
+36399,Mar 16 2012,Annie Zypern,United States,Office Supplies,$15.55,3,$46.66
+36398,Mar 16 2012,Annie Zyern,United States,Office Supplies,$5.18,1,$5.18
+10670,Aug 15 2012,Alice McCarthy,"Harrogate, England, United Kingdom","Phones, Technology","$4,453.05",7,"$31,171.35"
+3801,Sep 15 2012,Becky Pak,Cuba,Office Supplies,$552.96,4,"$2,211.84"
+42483,Apr 21 2012,Carol Darley,Senegal,"Storage, Office Supplies",$414.66,2,$829.32
+48564,Sep 07 2012,Dennis Bolton,Zambia,"Chairs, Furniture",$322.44,2,$644.88
+39793,Mar 04 2012,Aimee Bixby,United States,"Art, Office Supplies, OFF-AR-5325",$59.52,3,$178.56
+50607,Sep 20 2012,Denny Ordway,Benin,"Phones, Technology","$1,377.90",10,"$13,779.00"
+48914,Sep 18 2012,Christina Anderson,Russia,"Appliances, Office Supplies",$302.46,1,$302.46
+15270,Jan 06 2013,Georgia Rosenberg,Norway,"Copiers, Technology",$964.08,3,"$2,892.24"
+29721,Nov 24 2012,Alan Haines,Philippines,"Appliances, Office Supplies","$2,123.13",5,"$10,615.65"
+27591,Aug 12 2012,Deirdre Greer,China,Furniture,"$1,038.49",3,"$3,115.48"
+36714,Oct 05 2012,Alice McCarthy,United States,"Binders, Office Supplies",$15.36,2,$30.72
+50470,Dec 21 2012,Damala Kotsonis,Algeria,"Machines, Technology","$1,589.40",6,"$9,536.40"
+29718,Aug 02 2012,Don Miller,India,"Phones, Technology, TEC-PH-5813",$840.60,5,"$4,203.00"
+7539,Jul 28 2012,Giulietta Dortch,Mexico,"Chairs, Furniture",$470.48,5,"$2,352.40"
+17062,Jun 01 2012,Benjamin Venier,United Kingdom,"Appliances, Office Supplies","$2,052.54",4,"$8,210.16"
+6659,Sep 08 2012,Henry MacAllister,Honduras,"Phones, Technology, TEC-PH-5839",$766.80,3,"$2,300.40"
+12655,Feb 06 2013,Astrea Jones,France,"Furnishings, Furniture, FUR-FU-5730",$651.06,6,"$3,906.36"
+20798,Oct 18 2012,Emily Burns,Indonesia,"Binders, Office Supplies",$380.07,9,"$3,420.66"
+31671,Jul 22 2012,Arthur Gainer,United States,"Art, Office Supplies, OFF-AR-5302",$9.24,1,$9.24
+27347,Jan 16 2013,Guy Armstrong,China,"Phones, Technology, TEC-PH-3805","$2,605.92",4,"$10,423.68"
+37315,Apr 05 2012,Andy Yotov,United States,Office Supplies,$55.48,1,$55.48
+6817,Oct 23 2012,Aaron Hawkins,Guatemala,"Phones, Technology, TEC-PH-5841","$2,120.80",5,"$10,604.00"
+31635,Jul 11 2012,Alyssa Crouse,United States,"Tables, Furniture, FUR-TA-4622",$698.35,3,"$2,095.06"
+29258,Sep 07 2012,Dorris liebe,Thailand,"Phones, Technology, TEC-PH-5839","$1,591.11",3,"$4,773.33"
+33911,Apr 25 2012,Aleksandra Gannaway,United States,Furniture,$230.28,3,$690.84
+31899,Mar 14 2012,Alan Shonely,United States,"Storage, Office Supplies, OFF-ST-4752",$142.78,1,$142.78
+24876,Jan 01 2013,Andy Reiter,India,"Phones, Technology",$413.37,3,"$1,240.11"
+29142,Sep 04 2012,Erica Hackney,Philippines,Furniture,$555.52,6,"$3,333.10"
+5873,Jan 17 2012,Alan Haines,El Salvador,"Copiers, Technology, TEC-CO-4574","$1,411.55",11,"$15,527.06"
+31634,Jul 11 2012,Alyssa Crouse,United States,"Binders, Office Supplies",$7.71,2,$15.42
+14984,Aug 24 2012,Denise Leinenbach,"The Hague, South Holland, Netherlands","Art, Office Supplies",$327.18,14,"$4,580.52"
+4344,Jun 06 2012,Dana Kaydos,Mexico,"Copiers, Technology, TEC-CO-3596",$846.78,4,"$3,387.13"
+6826,Jan 21 2012,Hunter Lopez,Nicaragua,"Tables, Furniture","$2,797.25",6,"$16,783.49"
+41450,Aug 16 2012,Alejandro Savely,Russia,"Chairs, Furniture",$954.60,10,"$9,546.00"
+33503,Jul 13 2012,Arthur Wiediger,United States,"Binders, Office Supplies",$29.93,7,$209.52
+21582,May 01 2012,Jason Klamczynski,China,"Accessories, Technology",$337.23,3,"$1,011.69"
+31670,Jul 22 2012,Arthur Gainer,United States,"Accessories, Technology, TEC-AC-5279","$1,023.94",8,"$8,191.49"
+6474,Feb 05 2013,Jay Kimmel,Venezuela,"Appliances, Office Supplies",$216.89,7,"$1,518.22"
+14794,Oct 31 2012,David Flashing,United Kingdom,Copiers,"$1,592.70",5,"$7,963.50"
+46524,Dec 23 2012,Jennifer Ferguson,Morocco,"Tables, Furniture, FUR-TA-3342","$2,880.18",6,"$17,281.08"
+31022,May 30 2012,Erin Smith,Australia,"Appliances, Office Supplies","$1,245.02",4,"$4,980.10"
+13089,Aug 14 2012,Jill Fjeld,United Kingdom,"Binders, Office Supplies",$338.94,7,"$2,372.58"
+47569,Sep 20 2012,Jamie Kunitz,Benin,"Appliances, Office Supplies",$620.64,2,"$1,241.28"
+16669,Sep 25 2012,Brad Thomas,France,"Appliances, Office Supplies","$1,253.07",5,"$6,265.35"
+43035,Jan 22 2013,Delfina Latchford,Russia,"Storage, Office Supplies",$848.40,4,"$3,393.60"
+6459,Mar 06 2013,Darren Koutras,El Salvador,"Appliances, Office Supplies","$1,903.00",5,"$9,515.00"
+38852,May 09 2012,Art Foster,United States,"Art, Office Supplies",$22.32,5,$111.60
+15531,Sep 07 2012,David Philippe,France,"Appliances, Office Supplies","$1,666.66",6,"$9,999.94"
+4659,Sep 28 2012,Dave Hallsten,El Salvador,"Storage, Office Supplies",$552.96,4,"$2,211.84"
+12333,Jun 25 2012,Ben Wallace,France,"Bookcases, Furniture, FUR-BO-5787",$704.05,2,"$1,408.10"
+14267,Dec 01 2012,Alan Hwang,France,"Storage, Office Supplies",$370.82,3,"$1,112.45"
+35318,Jun 21 2012,Anna Andreadi,United States,"Phones, Technology, TEC-PH-5566",$82.78,3,$248.35
+11968,Jan 08 2013,Susan MacKendrick,Germany,"Machines, Technology, TEC-MA-4197",$919.89,3,"$2,759.67"
+14556,Sep 14 2012,Jack O'Brian,Germany,"Accessories, Technology","$1,292.70",5,"$6,463.50"
+15587,Apr 21 2012,Brendan Sweed,France,"Phones, Technology, TEC-PH-3803",$645.28,5,"$3,226.39"
+579,Sep 27 2012,Dianna Vittorini,El Salvador,"Copiers, Technology",$477.12,3,"$1,431.37"
+35319,Jun 21 2012,Anna Andreadi,United States,"Chairs, Furniture",$853.93,5,"$4,269.65"
+38707,Jul 22 2012,Alejandro Grove,United States,"Accessories, Technology",$99.98,2,$199.96
+8859,Nov 03 2012,Frank Merwin,Jamaica,Furniture,"$1,380.90",5,"$6,904.50"
+18296,Aug 25 2012,Jack Lebron,France,"Appliances, Office Supplies","$2,223.99",5,"$11,119.95"
+14266,Dec 01 2012,Alan Hwang,France,"Binders, Office Supplies",$676.20,14,"$9,466.80"
+32459,Mar 02 2012,Anne Pryor,United States,"Phones, Technology",$9.99,1,$9.99
+7386,Oct 13 2012,Darrin Sayre,Nicaragua,"Phones, Technology, TEC-PH-5355","$2,544.24",6,"$15,265.44"
+27069,Oct 05 2012,Erica Hackney,India,"Phones, Technology",$667.92,4,"$2,671.68"
+48223,Jan 10 2012,Elpida Rittenbach,Hungary,"Copiers, Technology, TEC-CO-3697",$588.60,4,"$2,354.40"
+21030,Mar 09 2012,Bryan Mills,China,"Copiers, Technology","$1,274.16",4,"$5,096.64"
+35334,Dec 28 2012,Anthony Johnson,United States,"Furnishings, Furniture, FUR-FU-6101",$24.90,5,$124.50
+29578,Aug 11 2012,Clay Rozendal,Vietnam,"Copiers, Technology, TEC-CO-4570","$1,161.20",7,"$8,128.38"
+31852,Mar 02 2012,Ashley Jarboe,United States,"Art, Office Supplies, OFF-AR-6632",$19.46,4,$77.82
+30764,May 22 2012,Bart Watters,New Zealand,"Phones, Technology","$1,272.12",2,"$2,544.24"
+35336,Dec 28 2012,Anthony Johnson,United States,"Machines, Technology",$767.95,6,"$4,607.71"
+37594,Dec 27 2012,Anthony Jacobs,United States,"Paper, Office Supplies",$141.76,4,$567.04
+17283,Jun 06 2012,Emily Ducich,Italy,"Copiers, Technology",$712.65,5,"$3,563.25"
+38851,May 09 2012,Art Foster,United States,"Bookcases, Furniture, FUR-BO-3409",$349.97,7,"$2,449.76"
+15978,Mar 31 2012,Aaron Smayling,Italy,"Phones, Technology",$496.58,6,"$2,979.50"
+21620,Aug 18 2012,Cari Sayre,China,Furniture,"$2,337.15",5,"$11,685.75"
+29407,Apr 20 2012,Janet Molinari,Pakistan,"Chairs, Furniture",$584.35,4,"$2,337.41"
+22711,Feb 23 2013,Denise Leinenbach,India,"Phones, Technology","$3,187.20",5,"$15,936.00"
+10404,Oct 16 2012,Greg Tran,Spain,"Chairs, Furniture","$1,838.52",5,"$9,192.60"
+27988,Apr 11 2012,Cathy Hwang,China,"Bookcases, Furniture","$1,451.40",4,"$5,805.60"
+51179,Jul 06 2012,Ann Steele,Nigeria,"Appliances, Office Supplies",$651.71,4,"$2,606.83"
+40953,Sep 21 2012,Adam Shillingsburg,United States,"Binders, Office Supplies",$3.98,1,$3.98
+18577,Aug 31 2012,Eric Murdock,United Kingdom,"Machines, Technology","$1,232.88",4,"$4,931.52"
+18295,Aug 25 2012,Jack Lebron,France,"Chairs, Furniture","$2,472.93",6,"$14,837.58"
+39057,Dec 05 2012,Barry Gonzalez,United States,"Paper, Office Supplies",$42.21,2,$84.42
+10338,Sep 26 2012,Christina Anderson,United Kingdom,"Copiers, Technology","$1,892.25",5,"$9,461.25"
+625,May 19 2012,Ed Braxton,El Salvador,"Storage, Office Supplies",$660.80,7,"$4,625.60"
+32162,Jan 11 2012,Anthony Jacobs,United States,"Labels, Office Supplies",$2.89,1,$2.89
+35337,Dec 28 2012,Anthony Johnson,United States,"Binders, Office Supplies",$14.35,3,$43.06
+7695,Jun 12 2012,Brendan Dodson,Mexico,"Appliances, Office Supplies, OFF-AP-4969",$284.40,5,"$1,422.00"
+24689,Nov 03 2012,Jason Klamczynski,China,"Copiers, Technology","$1,028.16",7,"$7,197.12"
+11221,May 26 2012,David Philippe,Germany,"Bookcases, Furniture, FUR-BO-5779",$713.12,4,"$2,852.50"
+15239,Dec 25 2012,Dennis Kane,Netherlands,"Chairs, Furniture","$1,380.60",6,"$8,283.60"
+36259,Mar 06 2012,Aaron Bergman,United States,"Art, Office Supplies, OFF-AR-5309",$17.94,3,$53.82
+49474,Apr 19 2012,Frank Carlisle,"Juba, Central Equatoria, South Sudan","Phones, Technology, TEC-PH-5815",$667.32,4,"$2,669.28"
+29368,Jun 05 2012,Annie Thurman,Australia,"Copiers, Technology, TEC-CO-4590","$1,717.34",5,"$8,586.68"
+34444,Jun 29 2012,Anthony Rawles,United States,"Art, Office Supplies",$32.40,5,$162.00
+3942,Dec 04 2012,Harold Engle,Mexico,"Chairs, Furniture",$744.00,3,"$2,232.00"
+38765,Sep 14 2012,Alex Avila,United States,"Fasteners, Office Supplies",$14.94,3,$44.82
+12051,Aug 09 2012,Becky Pak,United Kingdom,"Phones, Technology, TEC-PH-3805","$5,276.99",9,"$47,492.89"
+20958,Sep 01 2012,Brendan Murry,China,"Tables, Furniture","$2,076.61",6,"$12,459.64"
+49218,Apr 07 2012,Bobby Elias,Guinea,"Appliances, Office Supplies",$526.08,1,$526.08
+581,Sep 27 2012,Dianna Vittorini,El Salvador,"Bookcases, Furniture","$2,325.28",8,"$18,602.24"
+29381,Aug 12 2012,Cindy Chapman,Philippines,"Chairs, Furniture",$769.14,8,"$6,153.12"
+3943,Dec 04 2012,Harold Engle,Mexico,"Copiers, Technology",$802.07,4,"$3,208.29"
+32065,May 13 2012,Anthony Johnson,United States,"Furnishings, Furniture, FUR-FU-4113",$310.88,2,$621.76
+21624,Aug 18 2012,Cari Sayre,China,"Chairs, Furniture","$1,836.00",4,"$7,344.00"
+37425,Oct 24 2012,Aaron Hawkins,United States,Office Supplies,$49.41,4,$197.63
+37121,May 01 2012,Andrew Roberts,United States,"Appliances, Office Supplies",$26.14,3,$78.41
+36258,Mar 06 2012,Aaron Bergman,United States,"Chairs, Furniture",$48.71,1,$48.71
+50041,Jul 17 2012,Erica Bern,Senegal,"Storage, Office Supplies, OFF-ST-4266","$1,658.64",8,"$13,269.12"
+11601,Jun 15 2012,Jill Fjeld,Italy,"Appliances, Office Supplies",$561.30,2,"$1,122.60"
+38460,Apr 21 2012,Aaron Hawkins,United States,"Fasteners, Office Supplies, OFF-FA-6129",$247.84,8,"$1,982.72"
+14079,Aug 20 2012,Frank Olsen,France,"Storage, Office Supplies, OFF-ST-6047",$895.05,5,"$4,475.25"
+38317,Aug 22 2012,Arthur Prichep,United States,"Supplies, Office Supplies, OFF-SU-3000",$6.80,1,$6.80
+7890,Oct 26 2012,Darrin Van Huff,Mexico,"Tables, Furniture",$747.36,3,"$2,242.08"
+32438,Sep 28 2012,Arthur Prichep,United States,"Furnishings, Furniture, FUR-FU-5160",$204.60,2,$409.20
+32461,Mar 02 2012,Anne Pryor,United States,"Binders, Office Supplies",$25.32,5,$126.60
+38766,Sep 14 2012,Alex Avila,United States,"Furnishings, Furniture",$14.56,2,$29.12
+49674,Feb 20 2013,Aaron Hawkins,Ukraine,"Chairs, Furniture","$1,025.52",8,"$8,204.16"
+40954,Sep 21 2012,Adam Shillingsburg,United States,"Art, Office Supplies, OFF-AR-3285",$13.04,4,$52.16
+23962,Aug 07 2012,Barbara Fisher,China,"Copiers, Technology","$1,273.56",4,"$5,094.24"
+10403,Oct 16 2012,Greg Tran,Spain,"Bookcases, Furniture",$723.72,2,"$1,447.44"
+32469,Apr 20 2012,Allen Arnold,United States,"Binders, Office Supplies",16.52,5,82.60
+40955,Sep 21 2012,Adam Shillingsburg,United States,"Chairs, Furniture",$579.53,4,"$2,318.11"
+43048,Sep 20 2012,Alan Shonely,Canada,"Labels, Office Supplies",$4.80,1,$4.80
+6832,Nov 25 2012,Corey Catlett,Brazil,"Appliances, Office Supplies","$1,133.22",3,"$3,399.66"
+18927,Feb 15 2012,Gary Zandusky,Netherlands,"Bookcases, Furniture, FUR-BO-5950",$874.68,4,"$3,498.72"
+48974,Jun 19 2012,Clay Ludtke,Cameroon,"Machines, Technology",$351.90,2,$703.80
+# 32439,Sep 28 2012,Arthur Prichep,United States,"Fasteners, Office Supplies",$8.72,4,$34.88
+51126,Jan 18 2012,Charles Sheldon,Tanzania,"Storage, Office Supplies, OFF-ST-4266",$746.39,4,"$2,985.55"
+20581,Nov 08 2012,Alejandro Savely,India,"Phones, Technology, TEC-PH-5351",$275.58,2,$551.16
+37593,Dec 27 2012,Anthony Jacobs,United States,"Storage, Office Supplies",$704.25,5,"$3,521.25"
+39986,Dec 25 2012,Andy Yotov,United States,"Art, Office Supplies",$8.02,3,$24.05

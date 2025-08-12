@@ -1,0 +1,12 @@
+pandas
+openai
+python-dotenv
+pdfplumber
+pytesseract
+matplotlib
+os
+re
+pdf2image
+PIL
+matplotlib
+plotly
