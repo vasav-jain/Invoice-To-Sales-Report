@@ -1,7 +1,7 @@
 # Invoice To Sales Report
 
 This project processes PDF invoices, extracts structured data, and generates analytics reports.  
-Follow the instructions below to set up your environment.
+Follow the instructions below to set up your virtual environment.
 
 ---
 
@@ -17,3 +17,16 @@ Follow the instructions below to set up your environment.
 ```bash
 git clone https://github.com/vasav-jain/Invoice-To-Sales-Report.git
 cd <your-repo-directory>
+```
+
+### 3. Create the Virtual Environment
+```bash
+python3.10 -m venv venv
+source venv/bin/activate
+```
+
+### 4. Install Dependencies
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
