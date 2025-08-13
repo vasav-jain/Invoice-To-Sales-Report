@@ -32,8 +32,11 @@ pip install -r requirements.txt
 ```
 
 ### 5. Create a .env file for the OpenAI Key
-- Add the code below
+Add the code below
 ```bash
 OPENAI_API_KEY= <your_openai_api_key_here>
 ```
+
+### 6. Run the notebook
+Run the driver.ipynb file from the console
 
