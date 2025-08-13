@@ -16,7 +16,7 @@ Follow the instructions below to set up your virtual environment.
 
 ```bash
 git clone https://github.com/vasav-jain/Invoice-To-Sales-Report.git
-cd <your-repo-directory>
+cd Invoice-To-Sales-Report
 ```
 
 ### 3. Create the Virtual Environment
