@@ -15,5 +15,5 @@ Follow the instructions below to set up your environment.
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/vasav-jain/Invoice-To-Sales-Report.git
 cd <your-repo-directory>
