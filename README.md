@@ -30,3 +30,10 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+### 5. Create a .env file for the OpenAI Key
+- Add the code below
+```bash
+OPENAI_API_KEY= <your_openai_api_key_here>
+```
+
