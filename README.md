@@ -1,4 +1,4 @@
-# Project Name
+# Invoice To Sales Report
 
 This project processes PDF invoices, extracts structured data, and generates analytics reports.  
 Follow the instructions below to set up your environment.
