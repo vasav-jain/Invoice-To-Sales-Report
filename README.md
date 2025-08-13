@@ -9,7 +9,7 @@ Follow the instructions below to set up your environment.
 
 ### 1. Prerequisites
 
-- **Python**: 3.10.12 (ensure you have the exact version for compatibility)
+- **Python**: 3.10.14 (ensure you have the exact version for compatibility)
 - **pip**: Ensure you have pip installed and updated
 
 ### 2. Clone the Repository
